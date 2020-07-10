@@ -5,17 +5,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alancoosta2323@gmail.com)](mailto:alancoosta2323@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/watch?v=kNoC88gT2Wkm)](https://www.youtube.com/watch?v=kNoC88gT2Wk)
 
-https://alancoosta-freefit.netlify.app/
+https://alancoosta.netlify.app/
 
-## Oi eu sou o Alan! 🦕
+## Hi i am alan 🦕
 
 ### Developer back-end e front-end.
 
-- 👨🏻‍💻 Actually learning and work Typescript and React
+- 💻 Actually learning and work Typescript and React
 - 🚀 Looking for opportunities
-- ⭐ Last projects, 🏋️[FreeFit](https://alancoosta-freefit.netlify.app/), 🗃️[Datawarehouse](https://alancoosta-datawarehouse.netlify.app/)
-- ▶️ Below some projects in video
+- ⭐ Last projects, 🏋️[FreeFit](https://alancoosta-freefit.netlify.app/), 🗃️[Datawarehouse](https://alancoosta-datawarehouse.netlify.app/), 💃[Fashionista](https://alancoosta-desafio-final.netlify.app/)
+- ▶️ Some videos projects on [Youtube](https://www.youtube.com/watch?v=kNoC88gT2Wkm)
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/kNoC88gT2Wk" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
