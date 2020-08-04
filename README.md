@@ -1,10 +1,12 @@
-Hi, my name is Alan Costa, i'm from Rio de Janeiro, I study frontend development with React and React Native using TypeScript, and applying the best practices to development, and  study ever more to build software better e with this want to improve people's daily lives.
+🙋🏻‍♂️ Hi, my name is <b>Alan Costa</b>, i'm from Rio de Janeiro, 🇧🇷.
 
-#### I'm search for opportunities
+👨🏻‍🎓I study Information Systems at Universidade Estácio de Sá and frontend development with React and React Native using TypeScript, and applying the best practices to development, and  study ever more to build software better e with this want to improve people's daily lives.
 
-I like watch football and see any movies in TV.
+#### :mag: I'm search for opportunities
 
-If you want know more about me contact me in [LinkedIn](https://www.linkedin.com/in/alancoosta) or alancoosta2323@gmail.com, promise i will answer more fast possible!!!
+👍🏻 I like watch football ⚽ and see any movies :art: in TV.
+
+📨 If you want know more about me contact me in [LinkedIn](https://www.linkedin.com/in/alancoosta) or alancoosta2323@gmail.com, promise i will answer more fast possible!!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alancoosta/)](https://www.linkedin.com/in/alancoosta/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alancoosta2323@gmail.com)](mailto:alancoosta2323@gmail.com)
