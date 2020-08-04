@@ -1,5 +1,3 @@
-# Alan Costa <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="auto" height="100" />
-
 Hi, my name is Alan Costa, i'm from Rio de Janeiro, I study frontend development with React and React Native using TypeScript, and applying the best practices to development, and  study ever more to build software better e with this want to improve people's daily lives.
 
 #### I'm search for opportunities
