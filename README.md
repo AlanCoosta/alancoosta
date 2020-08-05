@@ -1,4 +1,6 @@
-🙋🏻‍♂️ Hi, my name is <b>Alan Costa</b>, i'm from Rio de Janeiro, 🇧🇷.
+# Alan Costa
+
+🙋🏻‍♂️ Hi i'm Alan, from Rio de Janeiro, 🇧🇷.
 
 👨🏻‍🎓I study Information Systems at Universidade Estácio de Sá and frontend development with React and React Native using TypeScript, and applying the best practices to development, and  study ever more to build software better e with this want to improve people's daily lives.
 
