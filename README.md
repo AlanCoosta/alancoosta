@@ -12,12 +12,27 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alancoosta2323@gmail.com)](mailto:alancoosta2323@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/watch?v=kNoC88gT2Wkm)](https://www.youtube.com/watch?v=kNoC88gT2Wk)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoosta&title_color=58a6ff&text_color=c9d1d9&icon_color=c9d1d9&bg_color=0d1117&show_icons=true" />
-</a>
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alancoosta&repo=clicksoft&theme=radical&layout=compact&langs_count=3&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-</a>
+
+## Knowleadged in
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoosta&hide=contribs,prs,stars,commits,issues&hide_rank=true&custom_title=Typescript,%20React,%20React%20Native&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
+
+<br>
+<br>
+
+## I want to learn
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoosta&hide=contribs,prs,stars,commits,issues&hide_rank=true&custom_title=Flutter,%20Kotlin,%20Go&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
+
+<br>
+<br>
+
+## Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alancoosta&repo=clicksoft&theme=radical&layout=compact&langs_count=3&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+
+<br>
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoosta&title_color=58a6ff&text_color=c9d1d9&icon_color=c9d1d9&bg_color=0d1117&show_icons=true" />
 
 
