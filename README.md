@@ -14,7 +14,7 @@
 
 <br>
 
-## Knowleadged in
+## Knowledge
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoosta&hide=contribs,prs,stars,commits,issues&hide_rank=true&custom_title=Typescript,%20React,%20React%20Native&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
 
 ## I want to learn
