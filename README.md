@@ -13,11 +13,11 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/watch?v=kNoC88gT2Wkm)](https://www.youtube.com/watch?v=kNoC88gT2Wk)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoosta&title_color=c9d1d9&text_color=c9d1d9&icon_color=c9d1d9&bg_color=0d1117&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoosta&title_color=58a6ff&text_color=c9d1d9&icon_color=c9d1d9&bg_color=0d1117&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alancoosta&repo=clicksoft&theme=radical&layout=compact&langs_count=3&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alancoosta&repo=clicksoft&theme=radical&layout=compact&langs_count=3&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 
