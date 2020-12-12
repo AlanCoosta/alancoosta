@@ -24,5 +24,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alancoosta&repo=clicksoft&theme=radical&layout=compact&langs_count=3&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alancoosta&title_color=58a6ff&text_color=c9d1d9&icon_color=c9d1d9&bg_color=0d1117&show_icons=true" />
-
-
