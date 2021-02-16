@@ -1,8 +1,6 @@
-# Alan Costa
+# Alan Costa - Software Development Intern at CI&T
 
 I study Information Systems at Universidade Estácio de Sá and frontend development with React and React Native using TypeScript, and applying the best practices to development, and  study ever more to build software better e with this want to improve people's daily lives.
-
-I like watch football ⚽ and see any movies :art: in TV.
 
 If you want know more about me contact me in [LinkedIn](https://www.linkedin.com/in/alancoosta) or alancoosta2323@gmail.com, promise i will answer more fast possible!!!
 
