@@ -6,4 +6,4 @@ Software Development Intern at CI&T
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alancoosta2323@gmail.com)](mailto:alancoosta2323@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/watch?v=kNoC88gT2Wkm)](https://www.youtube.com/watch?v=kNoC88gT2Wk)
 
-I study Information Systems at Universidade Estácio de Sá and frontend development with React and React Native using TypeScript, and applying the best practices to development, and  study ever more to build software better e with this want to improve people's daily lives.
+Frontend developer, React and React Native using TypeScript, and applying the best practices to development, and  study ever more to build software better e with this want to improve people's daily lives.
