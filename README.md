@@ -1,6 +1,6 @@
 # Alan Costa
 
-Software Development Intern at CI&T
+Software Engineer Jr at CI&T
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alancoosta/)](https://www.linkedin.com/in/alancoosta/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alancoosta2323@gmail.com)](mailto:alancoosta2323@gmail.com)
